@@ -1,0 +1,1 @@
+import{h as e,o,a as t}from"./entry.8a1dcffc.js";const c={colorMode:"light"};function r(s,a,n,i,l,p){return o(),t("h1",null,"This page is forced with light mode")}const _=e(c,[["render",r]]);export{_ as default};
