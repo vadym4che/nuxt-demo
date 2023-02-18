@@ -1,6 +1,5 @@
 <template>
   <div>
-  <div>
     <h1>Index: Vue + Nuxt + Tailwind</h1>
     <h2>Introducing to Nuxt</h2>
     <ul>
@@ -27,11 +26,6 @@
     <h2>To continue with Vue(+Nuxt +TaliwindCSS) ecosystem you can go follow these links:</h2>
     <a href="/darkmode">Dark-mode</a>
   </div>
-
-  
-    </div>
-
-
 </template>
 
 <script setup>
