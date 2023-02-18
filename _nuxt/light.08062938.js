@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.c27b6911.js";import{o as e,b as t}from"./entry.7eaab48c.js";const r={colorMode:"light"};function c(s,n,a,i,l,p){return e(),t("h1",null,"This page is forced with light mode")}const d=o(r,[["render",c]]);export{d as default};

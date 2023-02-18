@@ -1,1 +1,0 @@
-import{u as e}from"./composables.23a472eb.js";import{o as r,a as s,b as t}from"./entry.8a1dcffc.js";const c=t("h1",null,"Color",-1),a=[c],p={__name:"darkmode",setup(n){const o=e();return console.log(o.preference),(l,_)=>(r(),s("div",null,a))}};export{p as default};
