@@ -1,0 +1,1 @@
+import{a as o,o as n,b as t,e}from"./entry.167db9fb.js";const s={},l=e("br",null,null,-1),c=e("br",null,null,-1),_=e("br",null,null,-1),r=e("h2",null," /darkmode ",-1),a=[l,c,_,r];function d(u,i){return n(),t("div",null,a)}const f=o(s,[["render",d]]);export{f as default};
