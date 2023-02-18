@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;:root{font-family:Inter,sans-serif}@supports (font-variation-settings:normal){:root{font-family:Inter var,sans-serif}}html{font-family:Inter}body{background-color:#fff;color:#000c}.dark-mode body{background-color:#091a28;color:#ebf4f1}.sepia-mode body{background-color:#f1e7d0;color:#433422}
